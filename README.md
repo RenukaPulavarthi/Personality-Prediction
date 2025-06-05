@@ -3,8 +3,7 @@
 
 A machine learning project that predicts whether a person is an **Introvert** or an **Extrovert** based on their social behavior. Built using Python, trained in Jupyter Notebook, and deployed with a user-friendly Streamlit interface.
 
-### 🔗 Live App
-👉 [Try the App Here](https://personality-predictor-by-renuka.streamlit.app/)
+### Live App : [Try the App Here](https://personality-predictor-by-renuka.streamlit.app/)
 
 
 
