@@ -6,7 +6,7 @@ A machine learning project that predicts whether a person is an **Introvert** or
 ### 🔗 Live App
 👉 [Try the App Here](https://personality-predictor-by-renuka.streamlit.app/)
 
----
+
 
 ## Project Highlights
 
@@ -15,7 +15,6 @@ A machine learning project that predicts whether a person is an **Introvert** or
 - Cleaned, preprocessed, and visualized data for insights
 - Deployed as a live interactive web app using **Streamlit**
 
----
 
 ## Dataset Overview
 
@@ -32,7 +31,6 @@ A machine learning project that predicts whether a person is an **Introvert** or
 - `Friends_circle_size` – Number of close friends (0–15)
 - `Post_frequency` – Social media post frequency (0–10)
 
----
 
 ## Tech Stack
 
@@ -40,5 +38,3 @@ A machine learning project that predicts whether a person is an **Introvert** or
 - Scikit-learn (ML modeling)
 - Matplotlib & Seaborn (visualization)
 - Streamlit (web app)
-
----
