@@ -4,7 +4,7 @@
 A machine learning project that predicts whether a person is an **Introvert** or an **Extrovert** based on their social behavior. Built using Python, trained in Jupyter Notebook, and deployed with a user-friendly Streamlit interface.
 
 ### 🔗 Live App
-👉 [Try the App Here](https://your-streamlit-app-url.streamlit.app)
+👉 [Try the App Here](https://personality-predictor-by-renuka.streamlit.app/)
 
 ---
 
@@ -32,8 +32,6 @@ A machine learning project that predicts whether a person is an **Introvert** or
 - `Friends_circle_size` – Number of close friends (0–15)
 - `Post_frequency` – Social media post frequency (0–10)
 
-> Includes missing values – good practice for preprocessing.
-
 ---
 
 ## Tech Stack
@@ -44,11 +42,3 @@ A machine learning project that predicts whether a person is an **Introvert** or
 - Streamlit (web app)
 
 ---
-
-## How to Run Locally
-
-```bash
-git clone https://github.com/your-username/Personality-Prediction.git
-cd Personality-Prediction
-pip install -r requirements.txt
-streamlit run app.py
